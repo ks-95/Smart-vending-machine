@@ -29,3 +29,6 @@ The system is divided into three core engines to ensure maintainability:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/ks-95/Smart-Vending-System.git](https://github.com/ks-95/Smart-Vending-System.git)
+2. Run the system:
+   ```bash
+   python vending_machine.py
